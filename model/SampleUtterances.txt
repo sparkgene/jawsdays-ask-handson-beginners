@@ -1,0 +1,19 @@
+AskIntent I'm home
+AskIntent I am home
+AskIntent I'm back
+AskIntent I am back
+
+HungryIntent I'm hungry
+HungryIntent I am hungry
+HungryIntent I want to eat
+
+BathIntent I'm tired
+BathIntent I am tired
+BathIntent take a bath
+
+GoodbyeIntent good bye
+GoodbyeIntent see you
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent shut up
+AMAZON.StopIntent nothing

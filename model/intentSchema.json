@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "AskIntent",
+      "slots": []
+    },
+    {
+      "intent": "HungryIntent",
+      "slots": []
+    },
+    {
+      "intent": "BathIntent",
+      "slots": []
+    },
+    {
+      "intent": "GoodbyeIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "slots": []
+    }
+  ]
+}
